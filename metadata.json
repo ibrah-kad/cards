@@ -1,0 +1,6 @@
+{
+  "name": "Jipate Events - Playful Digital Invitations & RSVP",
+  "description": "Delightful, animated digital cards, WhatsApp invitations, SMS reminders, and interactive QR check-ins for weddings, celebrations, and special occasions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
